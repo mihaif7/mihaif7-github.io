@@ -14,6 +14,7 @@ subtitle: "Welcome!"
 # icon: "fas fa-skull-crossbones"
 
 header: true # Set to false to hide the header
+footer: false
 # Optional: Different hotkey for search, defaults to "/"
 # hotkey:
 #   search: "Shift"
