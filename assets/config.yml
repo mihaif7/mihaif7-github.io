@@ -156,7 +156,7 @@ services:
         logo: "assets/tools/radarr.svg"
         # subtitle: "Network-wide Ad Blocking" # optional, if no subtitle is defined, PiHole statistics will be shown
         tag: "arr"
-        url: "http://radarr.fizilil.ro"
+        url: "https://radarr.fizilil.ro"
         target: "_blank" # optional html a tag target attribute
         type: "Radarr"
         apikey: "93cf30cd2f7f42a0b3e62a75f23e28a6"
@@ -164,7 +164,7 @@ services:
         logo: "assets/tools/sonarr.svg"
         # subtitle: "Network-wide Ad Blocking" # optional, if no subtitle is defined, PiHole statistics will be shown
         tag: "arr"
-        url: "http://sonarr.fizilil.ro"
+        url: "https://sonarr.fizilil.ro"
         target: "_blank" # optional html a tag target attribute
         type: "Sonarr"
         apikey: "b8dccfb30ab24bde98af7910a062b019"
@@ -172,7 +172,7 @@ services:
         logo: "assets/tools/bazarr.svg"
         # subtitle: "Network-wide Ad Blocking" # optional, if no subtitle is defined, PiHole statistics will be shown
         tag: "arr"
-        url: "http://bazarr.fizilil.ro"
+        url: "https://bazarr.fizilil.ro"
         target: "_blank" # optional html a tag target attribute
         # class: "green" # optional custom CSS class for card, useful with custom stylesheet
         # background: red # optional color for card to set color directly without custom stylesheet
